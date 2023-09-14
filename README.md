@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello, my name is SangMin Park. I love myself!!
 <!--
 **wasabi04/wasabi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
